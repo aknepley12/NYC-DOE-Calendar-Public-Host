@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYCPS//School Year Calendar 2026-2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+SUMMARY:First Day of School
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of School in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: First Day of School tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Yom Kippur - Schools Closed
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Yom Kippur closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Yom Kippur closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Italian Heritage/Indigenous Peoples' Day - Schools Closed
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Schools closed for Italian Heritage Day in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Schools closed tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Election Day - Remote Learning
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Election Day (Remote) in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Election Day (Remote) tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Veterans Day - Schools Closed
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Veterans Day closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Veterans Day closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Thanksgiving Recess - Schools Closed
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Thanksgiving Recess in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Thanksgiving Recess tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Winter Recess - Schools Closed
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Winter Recess in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Winter Recess tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:MLK Jr. Day - Schools Closed
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MLK Day closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: MLK Day closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Professional Development Day (Partial Attendance)
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PD Day (HS/6-12 No Attendance) in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: PD Day (HS/6-12 No Attendance) tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Midwinter Recess - Schools Closed
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Midwinter Recess in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Midwinter Recess tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Eid al-Fitr - Schools Closed
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Eid al-Fitr closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Eid al-Fitr closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Good Friday - Schools Closed
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Good Friday closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Good Friday closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Spring Recess - Schools Closed
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270501
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Spring Recess in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Spring Recess tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Eid al-Adha - Schools Closed
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Eid al-Adha closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Eid al-Adha closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Memorial Day - Schools Closed
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Memorial Day closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Memorial Day closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Clerical Day (Partial Attendance)
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Clerical Day in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Clerical Day tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Anniversary Day/Chancellor's Day - No Students
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chancellor's Day closure in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Chancellor's Day closure tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Last Day of School
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+DESCRIPTION:I undertook this project independently as an act of service for our community. Please pay it forward by performing an act of service for your own community. If you'd prefer to make a monetary donation please visit: https://www.ps261brooklyn.org/donate
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Last Day of School in 1 week.
+TRIGGER:-P6DT15H30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Last Day of School tomorrow.
+TRIGGER:-PT15H30M
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
